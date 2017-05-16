@@ -35,7 +35,7 @@
 <meta name="author-code" content="Developer" />
 
 <!-- JQUERY -->
-<script src="{c2r-path}/site-assets/js/jquery-3.1.1.min.js" ></script>
+<script src="{c2r-path}/site-assets/js/jquery-3.2.1.min.js" ></script>
 
 <!-- BOOTSTRAP -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -47,7 +47,7 @@
 <link href="{c2r-path}/site-assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <link rel="stylesheet" href="{c2r-path}/site-assets/css/style.css" type="text/css" media="screen" />
-<link rel='stylesheet' type='text/css' href='http://one-shift.github.io/site-assets/css/style.css' />
+<link rel="stylesheet" type="text/css" href="{c2r-path}/site-assets/css/os-style.css" />
 
 <script type="text/javascript" src="{c2r-path}/site-assets/js/animatescroll.min.js"></script>
 <script type="text/javascript" src="{c2r-path}/site-assets/js/cookies.js"></script>
