@@ -40,8 +40,8 @@
 <!-- BOOTSTRAP -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-<link rel="stylesheet" href="{c2r-path}/site-assets/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<script src="{c2r-path}/site-assets/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="{c2r-path}/site-assets/css/bootstrap.min.css" >
+<script src="{c2r-path}/site-assets/js/bootstrap.min.js" ></script>
 
 <!-- FONTAWESOME -->
 <link href="{c2r-path}/site-assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
