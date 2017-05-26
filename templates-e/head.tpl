@@ -46,8 +46,8 @@
 <!-- FONTAWESOME -->
 <link href="{c2r-path}/site-assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="{c2r-path}/site-assets/css/style.css" type="text/css" media="screen" />
 <link rel="stylesheet" type="text/css" href="{c2r-path}/site-assets/css/os-style.css" />
+<link rel="stylesheet" href="{c2r-path}/site-assets/css/style.css" type="text/css" media="screen" />
 
 <script type="text/javascript" src="{c2r-path}/site-assets/js/animatescroll.min.js"></script>
 <script type="text/javascript" src="{c2r-path}/site-assets/js/cookies.js"></script>
